@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## About the app
+
+It's a web application through which we can get information about different medicines in the market and buy them.
+
+## Note
+
+You need an active internet connection for this application to work properly
