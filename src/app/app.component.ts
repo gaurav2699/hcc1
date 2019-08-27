@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'medz';
-}
+  title = 'Medz';
+  data={
+value:"Type your name"
+  }
+  onKeyUp(newTitle:string){
+this.data.value=newTitle;
+
+  }
+ 
+
+} 
